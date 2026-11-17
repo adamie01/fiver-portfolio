@@ -1,0 +1,44 @@
+{
+  "3215008": {
+    "p": 0.87,
+    "source": "Communiqué FOMC 8-9 déc. (federalreserve.gov)",
+    "reason": "FedWatch ~85-89% pour +25 pb, 11-15% pour +50 pb (Waller évoque 50 pb); hausse quasi certaine mais risque +50 sous-pricé",
+    "exit": null,
+    "at": "2026-11-17T21:47:18.186686+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-17T21:47:18.186702+00:00",
+        0.87
+      ]
+    ]
+  },
+  "3580932": {
+    "p": 0.58,
+    "source": "Commission électorale centrale (db.cec.gov.tw)",
+    "reason": "Sondages 15-17 nov partagés (3 Shen, 1 Chiang), instituts pro-DPP surreprésentés; Taipei penche KMT, sortant",
+    "exit": null,
+    "at": "2026-11-17T21:47:18.241130+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-17T21:47:18.241141+00:00",
+        0.58
+      ]
+    ]
+  },
+  "3580933": {
+    "p": 0.42,
+    "source": "Commission électorale centrale (db.cec.gov.tw)",
+    "reason": "Idem: course serrée, léger biais pro-Chiang vs sondages",
+    "exit": null,
+    "at": "2026-11-17T21:47:18.305989+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-17T21:47:18.306002+00:00",
+        0.42
+      ]
+    ]
+  }
+}

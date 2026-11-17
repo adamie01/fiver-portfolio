@@ -1,0 +1,10 @@
+{
+  "cash": 50.0,
+  "peak": 50.0,
+  "equity": 50.0,
+  "open": [],
+  "closed": [],
+  "stopped": false,
+  "stop_reason": null,
+  "started": "2026-11-17 21:46 UTC"
+}
