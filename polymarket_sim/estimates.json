@@ -40,5 +40,61 @@
         0.42
       ]
     ]
+  },
+  "6507388": {
+    "p": 0.47,
+    "source": "Binance BTC/USDT bougies 1 min (binance.com)",
+    "reason": "Modèle de franchissement de barrière, spot ~64,3k$ (implicite marchés intraday + presse 17/11), vol 45-55%, 13,3 j restants; peur extrême (F&G ~12)",
+    "exit": null,
+    "at": "2026-11-17T21:55:01.722368+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-17T21:55:01.722381+00:00",
+        0.47
+      ]
+    ]
+  },
+  "7074444": {
+    "p": 0.74,
+    "source": "Binance BTC/USDT bougies 1 min (binance.com)",
+    "reason": "Modèle de franchissement de barrière, spot ~64,3k$ (implicite marchés intraday + presse 17/11), vol 45-55%, 13,3 j restants; peur extrême (F&G ~12)",
+    "exit": null,
+    "at": "2026-11-17T21:55:01.781652+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-17T21:55:01.781765+00:00",
+        0.74
+      ]
+    ]
+  },
+  "6507390": {
+    "p": 0.24,
+    "source": "Binance BTC/USDT bougies 1 min (binance.com)",
+    "reason": "Modèle de franchissement de barrière, spot ~64,3k$ (implicite marchés intraday + presse 17/11), vol 45-55%, 13,3 j restants; peur extrême (F&G ~12)",
+    "exit": null,
+    "at": "2026-11-17T21:55:01.842389+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-17T21:55:01.842403+00:00",
+        0.24
+      ]
+    ]
+  },
+  "6507392": {
+    "p": 0.11,
+    "source": "Binance BTC/USDT bougies 1 min (binance.com)",
+    "reason": "Modèle de franchissement de barrière, spot ~64,3k$ (implicite marchés intraday + presse 17/11), vol 45-55%, 13,3 j restants; peur extrême (F&G ~12)",
+    "exit": null,
+    "at": "2026-11-17T21:55:01.899249+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-17T21:55:01.899263+00:00",
+        0.11
+      ]
+    ]
   }
 }
