@@ -196,5 +196,61 @@
         0.89
       ]
     ]
+  },
+  "1105744": {
+    "p": 0.8,
+    "source": "Gouvernement vénézuélien / liste ONU des chefs d'État",
+    "reason": "Delcy Rodríguez présidente par intérim depuis 5/01/2026 (AP 1/11), mais le gouvernement maintient Maduro comme seul président; résolution ambiguë (statut 'primaire', risque litige UMA) → j'escompte un peu plus d'incertitude que le marché",
+    "exit": null,
+    "at": "2026-11-17T23:10:42.605652+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-17T23:10:42.605666+00:00",
+        0.8
+      ]
+    ]
+  },
+  "1105742": {
+    "p": 0.15,
+    "source": "Gouvernement vénézuélien / liste ONU des chefs d'État",
+    "reason": "Idem: Rodríguez 'encargada', pas cheffe d'État titulaire selon Caracas",
+    "exit": null,
+    "at": "2026-11-17T23:10:42.683963+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-17T23:10:42.683982+00:00",
+        0.15
+      ]
+    ]
+  },
+  "3581101": {
+    "p": 0.88,
+    "source": "Commission électorale centrale (db.cec.gov.tw)",
+    "reason": "Sortant KMT, large victoire 2022; aucun sondage récent trouvé face à Huang Shih-chieh (DPP)",
+    "exit": null,
+    "at": "2026-11-17T23:10:42.758681+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-17T23:10:42.758699+00:00",
+        0.88
+      ]
+    ]
+  },
+  "3581102": {
+    "p": 0.11,
+    "source": "Commission électorale centrale (db.cec.gov.tw)",
+    "reason": "Idem",
+    "exit": null,
+    "at": "2026-11-17T23:10:42.827247+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-17T23:10:42.827263+00:00",
+        0.11
+      ]
+    ]
   }
 }
