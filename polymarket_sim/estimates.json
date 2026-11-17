@@ -96,5 +96,89 @@
         0.11
       ]
     ]
+  },
+  "3013350": {
+    "p": 0.68,
+    "source": "Binance BTC/USDT bougies 1 min",
+    "reason": "Barrière, spot ~64,3k$, vol 45-50% (marché implique ~40%), 44 j; queues grasses non modélisées → prudence",
+    "exit": null,
+    "at": "2026-11-17T23:00:43.381836+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-17T23:00:43.381848+00:00",
+        0.68
+      ]
+    ]
+  },
+  "701501": {
+    "p": 0.35,
+    "source": "Binance BTC/USDT bougies 1 min",
+    "reason": "Barrière, spot ~64,3k$, vol 45-50% (marché implique ~40%), 44 j; queues grasses non modélisées → prudence",
+    "exit": null,
+    "at": "2026-11-17T23:00:43.441273+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-17T23:00:43.441291+00:00",
+        0.35
+      ]
+    ]
+  },
+  "1339767": {
+    "p": 0.15,
+    "source": "Binance BTC/USDT bougies 1 min",
+    "reason": "Barrière, spot ~64,3k$, vol 45-50% (marché implique ~40%), 44 j; queues grasses non modélisées → prudence",
+    "exit": null,
+    "at": "2026-11-17T23:00:43.507195+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-17T23:00:43.507233+00:00",
+        0.15
+      ]
+    ]
+  },
+  "701502": {
+    "p": 0.05,
+    "source": "Binance BTC/USDT bougies 1 min",
+    "reason": "Barrière, spot ~64,3k$, vol 45-50% (marché implique ~40%), 44 j; queues grasses non modélisées → prudence",
+    "exit": null,
+    "at": "2026-11-17T23:00:43.576601+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-17T23:00:43.576618+00:00",
+        0.05
+      ]
+    ]
+  },
+  "1339768": {
+    "p": 0.025,
+    "source": "Binance BTC/USDT bougies 1 min",
+    "reason": "Barrière, spot ~64,3k$, vol 45-50% (marché implique ~40%), 44 j; queues grasses non modélisées → prudence",
+    "exit": null,
+    "at": "2026-11-17T23:00:43.646304+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-17T23:00:43.646320+00:00",
+        0.025
+      ]
+    ]
+  },
+  "6367372": {
+    "p": 0.89,
+    "source": "Gouvernements/armées Israël et Iran + consensus presse",
+    "reason": "Pas de frappe israélienne confirmée 16-17/11; plans US-Israël de reprise (NYT), Mossad pousse, mais état-major sans urgence; frappes US à Qeshm ne comptent pas (US≠Israël); 5 j restants",
+    "exit": null,
+    "at": "2026-11-17T23:00:43.704511+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-17T23:00:43.704522+00:00",
+        0.89
+      ]
+    ]
   }
 }
