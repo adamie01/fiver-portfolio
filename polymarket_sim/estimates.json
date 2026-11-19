@@ -322,5 +322,33 @@
         0.87
       ]
     ]
+  },
+  "3580995": {
+    "p": 0.66,
+    "source": "Commission électorale centrale (db.cec.gov.tw)",
+    "reason": "Sondages nov.: Su +14,9 (Mirror 5/11), +8,4 (Fengcan 13/11), instituts plutôt pro-DPP; aucun sondage pro-KMT récent trouvé; New Taipei bastion KMT (Hou +25 en 2022), KMT a surperformé les sondages en 2022 → décote forte",
+    "exit": null,
+    "at": "2026-11-19T01:09:32.931165+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-19T01:09:32.931175+00:00",
+        0.66
+      ]
+    ]
+  },
+  "676741": {
+    "p": 0.88,
+    "source": "Capitalisations de clôture au 31/12 (consensus presse/données de marché)",
+    "reason": "Sources contradictoires: 12/11 Apple 5,17T$ vs Nvidia 3,94T$ (après démission de Huang), d'autres non datées placent Nvidia/Alphabet devant; ~6 semaines restantes",
+    "exit": null,
+    "at": "2026-11-19T01:09:32.979556+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-19T01:09:32.979567+00:00",
+        0.88
+      ]
+    ]
   }
 }
