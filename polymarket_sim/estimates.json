@@ -388,5 +388,19 @@
         0.5
       ]
     ]
+  },
+  "2243897": {
+    "p": 0.12,
+    "source": "Annonces officielles Russie et Ukraine / consensus presse",
+    "reason": "Pourparlers Abu Dhabi 10-12/11 sans percée (échange de prisonniers seulement); Moscou exige un accord global avant toute trêve, Kyiv veut un cessez-le-feu immédiat; une trêve brève mutuellement datée compterait (Putin aurait évoqué une trêve courte) → léger risque haussier",
+    "exit": null,
+    "at": "2026-11-19T01:58:04.736794+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-19T01:58:04.736806+00:00",
+        0.12
+      ]
+    ]
   }
 }
