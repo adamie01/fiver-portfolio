@@ -46,11 +46,11 @@
     ]
   },
   "6507388": {
-    "p": 0.58,
+    "p": 0.61,
     "source": "Binance BTC/USDT bougies 1 min",
-    "reason": "Recalcul 19/11 00:47 UTC: spot implicite ~62,9k$ (marché 'au-dessus de 62k le 19/11'), vol 47%, 12,2 j",
+    "reason": "Recalcul 19/11 01:47 UTC: spot implicite ~62,7k$, vol 47%, 12,1 j",
     "exit": null,
-    "at": "2026-11-19T00:45:26.009697+00:00",
+    "at": "2026-11-19T01:46:43.092856+00:00",
     "skip": false,
     "history": [
       [
@@ -64,6 +64,10 @@
       [
         "2026-11-19T00:45:26.009709+00:00",
         0.58
+      ],
+      [
+        "2026-11-19T01:46:43.092867+00:00",
+        0.61
       ]
     ]
   },
@@ -86,11 +90,11 @@
     ]
   },
   "6507390": {
-    "p": 0.29,
+    "p": 0.31,
     "source": "Binance BTC/USDT bougies 1 min",
-    "reason": "Recalcul 19/11 00:47 UTC: spot implicite ~62,9k$ (marché 'au-dessus de 62k le 19/11'), vol 47%, 12,2 j",
+    "reason": "Recalcul 19/11 01:47 UTC: spot implicite ~62,7k$, vol 47%, 12,1 j",
     "exit": null,
-    "at": "2026-11-19T00:45:26.061745+00:00",
+    "at": "2026-11-19T01:46:43.139919+00:00",
     "skip": false,
     "history": [
       [
@@ -104,15 +108,19 @@
       [
         "2026-11-19T00:45:26.061754+00:00",
         0.29
+      ],
+      [
+        "2026-11-19T01:46:43.139929+00:00",
+        0.31
       ]
     ]
   },
   "6507392": {
     "p": 0.13,
     "source": "Binance BTC/USDT bougies 1 min",
-    "reason": "Recalcul 19/11 00:47 UTC: spot implicite ~62,9k$ (marché 'au-dessus de 62k le 19/11'), vol 47%, 12,2 j",
+    "reason": "Recalcul 19/11 01:47 UTC: spot implicite ~62,7k$, vol 47%, 12,1 j",
     "exit": null,
-    "at": "2026-11-19T00:45:26.111518+00:00",
+    "at": "2026-11-19T01:46:43.194165+00:00",
     "skip": false,
     "history": [
       [
@@ -126,15 +134,19 @@
       [
         "2026-11-19T00:45:26.111527+00:00",
         0.13
+      ],
+      [
+        "2026-11-19T01:46:43.194175+00:00",
+        0.13
       ]
     ]
   },
   "3013350": {
-    "p": 0.76,
+    "p": 0.78,
     "source": "Binance BTC/USDT bougies 1 min",
-    "reason": "Recalcul 19/11 00:47 UTC: spot implicite ~62,9k$ (marché 'au-dessus de 62k le 19/11'), vol 47%, 43 j",
+    "reason": "Recalcul 19/11 01:47 UTC: spot implicite ~62,7k$, vol 47%, 43 j",
     "exit": null,
-    "at": "2026-11-19T00:45:26.157357+00:00",
+    "at": "2026-11-19T01:46:43.240259+00:00",
     "skip": false,
     "history": [
       [
@@ -144,15 +156,19 @@
       [
         "2026-11-19T00:45:26.157368+00:00",
         0.76
+      ],
+      [
+        "2026-11-19T01:46:43.240269+00:00",
+        0.78
       ]
     ]
   },
   "701501": {
-    "p": 0.4,
+    "p": 0.41,
     "source": "Binance BTC/USDT bougies 1 min",
-    "reason": "Recalcul 19/11 00:47 UTC: spot implicite ~62,9k$ (marché 'au-dessus de 62k le 19/11'), vol 47%, 43 j",
+    "reason": "Recalcul 19/11 01:47 UTC: spot implicite ~62,7k$, vol 47%, 43 j",
     "exit": null,
-    "at": "2026-11-19T00:45:26.204579+00:00",
+    "at": "2026-11-19T01:46:43.288262+00:00",
     "skip": false,
     "history": [
       [
@@ -162,15 +178,19 @@
       [
         "2026-11-19T00:45:26.204588+00:00",
         0.4
+      ],
+      [
+        "2026-11-19T01:46:43.288272+00:00",
+        0.41
       ]
     ]
   },
   "1339767": {
     "p": 0.17,
     "source": "Binance BTC/USDT bougies 1 min",
-    "reason": "Recalcul 19/11 00:47 UTC: spot implicite ~62,9k$ (marché 'au-dessus de 62k le 19/11'), vol 47%, 43 j; queues grasses",
+    "reason": "Recalcul 19/11 01:47 UTC: spot implicite ~62,7k$, vol 47%, 43 j; queues grasses",
     "exit": null,
-    "at": "2026-11-19T00:45:26.251124+00:00",
+    "at": "2026-11-19T01:46:43.333767+00:00",
     "skip": false,
     "history": [
       [
@@ -179,6 +199,10 @@
       ],
       [
         "2026-11-19T00:45:26.251134+00:00",
+        0.17
+      ],
+      [
+        "2026-11-19T01:46:43.333777+00:00",
         0.17
       ]
     ]
