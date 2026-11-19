@@ -402,5 +402,19 @@
         0.12
       ]
     ]
+  },
+  "1811265": {
+    "p": 0.2,
+    "source": "Annonces officielles Maison-Blanche / Pentagone",
+    "reason": "Pression forte après défaite GOP aux midterms (NBC: Trump aurait évoqué son remplacement), procédure d'impeachment Massie, mais Trump dit vouloir le garder et Hegseth refuse de partir; 6 semaines restantes",
+    "exit": null,
+    "at": "2026-11-19T02:10:13.046952+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-19T02:10:13.046963+00:00",
+        0.2
+      ]
+    ]
   }
 }
