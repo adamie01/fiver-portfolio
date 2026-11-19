@@ -294,5 +294,33 @@
         0.11
       ]
     ]
+  },
+  "7101622": {
+    "p": 0.55,
+    "source": "ATP Tour (atptour.com)",
+    "reason": "Alcaraz 2-0, qualifié en demi (ATP 18/11); doit encore gagner demi + finale (Zverev qualifié); soins à la cuisse gauche contre Medvedev → léger risque physique",
+    "exit": null,
+    "at": "2026-11-19T00:57:12.819941+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-19T00:57:12.819949+00:00",
+        0.55
+      ]
+    ]
+  },
+  "5336561": {
+    "p": 0.87,
+    "source": "Résultats officiels du Congrès des députés (Ministerio del Interior)",
+    "reason": "Moyenne des sondages PP 32,1% vs PSOE 26,4% (Rio Times), projection oct. PP ~142 sièges vs PSOE ~104 (Olive Press); seul le CIS (biais pro-PSOE connu) donne PSOE devant; erreur type sur l'écart ~4 pts → ~0,87; prime rurale du système D'Hondt favorable au PP",
+    "exit": null,
+    "at": "2026-11-19T00:57:12.865703+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-19T00:57:12.865715+00:00",
+        0.87
+      ]
+    ]
   }
 }
