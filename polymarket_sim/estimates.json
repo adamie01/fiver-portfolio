@@ -802,16 +802,20 @@
     "at": "2026-11-20T12:08:17.656308+00:00"
   },
   "1796706": {
-    "p": 0.22,
-    "source": "Annonces officielles de l'administration Trump, consensus presse",
-    "reason": "Sous forte pression (affaire Nvidia/Megaspeed, lettre Cantwell, Maison-Blanche a discuté de son départ le 12/11) mais Trump lui a renouvelé sa confiance le 16/11; audition au Congrès à venir; ~6 semaines → 0,22",
+    "p": 0.28,
+    "source": "Bloomberg/Axios/Reuters nov. 12-16 2026",
+    "reason": "Trump backs Lutnick (Nov 16) but Reuters: WH discussing push-out over Nvidia chip scandal; Cantwell letter. ~6 weeks left",
     "exit": null,
-    "at": "2026-11-20T12:20:58.340266+00:00",
+    "at": "2026-11-20T18:14:45.941488+00:00",
     "skip": false,
     "history": [
       [
         "2026-11-20T12:20:58.340279+00:00",
         0.22
+      ],
+      [
+        "2026-11-20T18:14:45.941501+00:00",
+        0.28
       ]
     ]
   }
