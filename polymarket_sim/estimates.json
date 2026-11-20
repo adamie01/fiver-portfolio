@@ -498,5 +498,33 @@
         0.82
       ]
     ]
+  },
+  "6998285": {
+    "p": 0.03,
+    "source": "Annonces officielles NVIDIA / dépôts SEC",
+    "reason": "Démission le 12/11 (motif non publié) dans un contexte d'enquête du conseil (affaire Alice Huang / espionnage présumé), conseil ayant selon la presse voulu l'écarter; Colette Kress CEO intérimaire; aucun signe de retour en 6 semaines → 3 %",
+    "exit": null,
+    "at": "2026-11-20T08:18:39.359181+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-20T08:18:39.359195+00:00",
+        0.03
+      ]
+    ]
+  },
+  "7001817": {
+    "p": 0.78,
+    "source": "ATP Tour (atptour.com/en/scores/current)",
+    "reason": "Alcaraz déjà 1er du groupe Lendl (bat Tiafoe 6-2 6-2, bat Medvedev), Cobolli éliminé (perd vs Medvedev et Tiafoe): match sans enjeu, risque de forfait (walkover = 50-50) ou moindre engagement d'Alcaraz → 0,78",
+    "exit": null,
+    "at": "2026-11-20T08:18:39.423533+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-20T08:18:39.423550+00:00",
+        0.78
+      ]
+    ]
   }
 }
