@@ -46,11 +46,11 @@
     ]
   },
   "6507388": {
-    "p": 0.81,
-    "source": "Polymarket BTC strike ladder (implied spot ~61.1k)",
-    "reason": "Barrier model sigma 0.45, spot dropped to ~61.1k; fat-tail floor on deep strikes",
+    "p": 0.94,
+    "source": "Polymarket BTC strike ladder (implied spot ~60.3k)",
+    "reason": "Barrier model sigma 0.45, BTC fell to ~60.3k; fat-tail floor; 60k weekly may have wicked",
     "exit": null,
-    "at": "2026-11-20T15:17:43.988507+00:00",
+    "at": "2026-11-20T15:28:33.914310+00:00",
     "skip": false,
     "history": [
       [
@@ -80,6 +80,10 @@
       [
         "2026-11-20T15:17:43.988525+00:00",
         0.81
+      ],
+      [
+        "2026-11-20T15:28:33.914330+00:00",
+        0.94
       ]
     ]
   },
@@ -102,11 +106,11 @@
     ]
   },
   "6507390": {
-    "p": 0.43,
-    "source": "Polymarket BTC strike ladder (implied spot ~61.1k)",
-    "reason": "Barrier model sigma 0.45, spot dropped to ~61.1k; fat-tail floor on deep strikes",
+    "p": 0.53,
+    "source": "Polymarket BTC strike ladder (implied spot ~60.3k)",
+    "reason": "Barrier model sigma 0.45, BTC fell to ~60.3k; fat-tail floor; 60k weekly may have wicked",
     "exit": null,
-    "at": "2026-11-20T15:17:44.045230+00:00",
+    "at": "2026-11-20T15:28:33.967842+00:00",
     "skip": false,
     "history": [
       [
@@ -136,15 +140,19 @@
       [
         "2026-11-20T15:17:44.045240+00:00",
         0.43
+      ],
+      [
+        "2026-11-20T15:28:33.967851+00:00",
+        0.53
       ]
     ]
   },
   "6507392": {
-    "p": 0.19,
-    "source": "Polymarket BTC strike ladder (implied spot ~61.1k)",
-    "reason": "Barrier model sigma 0.45, spot dropped to ~61.1k; fat-tail floor on deep strikes",
+    "p": 0.24,
+    "source": "Polymarket BTC strike ladder (implied spot ~60.3k)",
+    "reason": "Barrier model sigma 0.45, BTC fell to ~60.3k; fat-tail floor; 60k weekly may have wicked",
     "exit": null,
-    "at": "2026-11-20T15:17:44.097338+00:00",
+    "at": "2026-11-20T15:28:34.024600+00:00",
     "skip": false,
     "history": [
       [
@@ -174,15 +182,19 @@
       [
         "2026-11-20T15:17:44.097350+00:00",
         0.19
+      ],
+      [
+        "2026-11-20T15:28:34.024615+00:00",
+        0.24
       ]
     ]
   },
   "3013350": {
-    "p": 0.9,
-    "source": "Polymarket BTC strike ladder (implied spot ~61.1k)",
-    "reason": "Barrier model sigma 0.45, spot dropped to ~61.1k; fat-tail floor on deep strikes",
+    "p": 0.96,
+    "source": "Polymarket BTC strike ladder (implied spot ~60.3k)",
+    "reason": "Barrier model sigma 0.45, BTC fell to ~60.3k; fat-tail floor; 60k weekly may have wicked",
     "exit": null,
-    "at": "2026-11-20T15:17:44.163614+00:00",
+    "at": "2026-11-20T15:28:34.084987+00:00",
     "skip": false,
     "history": [
       [
@@ -208,15 +220,19 @@
       [
         "2026-11-20T15:17:44.163627+00:00",
         0.9
+      ],
+      [
+        "2026-11-20T15:28:34.085002+00:00",
+        0.96
       ]
     ]
   },
   "701501": {
-    "p": 0.49,
-    "source": "Polymarket BTC strike ladder (implied spot ~61.1k)",
-    "reason": "Barrier model sigma 0.45, spot dropped to ~61.1k; fat-tail floor on deep strikes",
+    "p": 0.54,
+    "source": "Polymarket BTC strike ladder (implied spot ~60.3k)",
+    "reason": "Barrier model sigma 0.45, BTC fell to ~60.3k; fat-tail floor; 60k weekly may have wicked",
     "exit": null,
-    "at": "2026-11-20T15:17:44.216093+00:00",
+    "at": "2026-11-20T15:28:34.156433+00:00",
     "skip": false,
     "history": [
       [
@@ -242,15 +258,19 @@
       [
         "2026-11-20T15:17:44.216104+00:00",
         0.49
+      ],
+      [
+        "2026-11-20T15:28:34.156454+00:00",
+        0.54
       ]
     ]
   },
   "1339767": {
-    "p": 0.21,
-    "source": "Polymarket BTC strike ladder (implied spot ~61.1k)",
-    "reason": "Barrier model sigma 0.45, spot dropped to ~61.1k; fat-tail floor on deep strikes",
+    "p": 0.23,
+    "source": "Polymarket BTC strike ladder (implied spot ~60.3k)",
+    "reason": "Barrier model sigma 0.45, BTC fell to ~60.3k; fat-tail floor; 60k weekly may have wicked",
     "exit": null,
-    "at": "2026-11-20T15:17:44.264340+00:00",
+    "at": "2026-11-20T15:28:34.204240+00:00",
     "skip": false,
     "history": [
       [
@@ -276,15 +296,19 @@
       [
         "2026-11-20T15:17:44.264350+00:00",
         0.21
+      ],
+      [
+        "2026-11-20T15:28:34.204250+00:00",
+        0.23
       ]
     ]
   },
   "701502": {
-    "p": 0.06,
-    "source": "Polymarket BTC strike ladder (implied spot ~61.1k)",
-    "reason": "Barrier model sigma 0.45, spot dropped to ~61.1k; fat-tail floor on deep strikes",
+    "p": 0.07,
+    "source": "Polymarket BTC strike ladder (implied spot ~60.3k)",
+    "reason": "Barrier model sigma 0.45, BTC fell to ~60.3k; fat-tail floor; 60k weekly may have wicked",
     "exit": null,
-    "at": "2026-11-20T15:17:44.324773+00:00",
+    "at": "2026-11-20T15:28:34.269740+00:00",
     "skip": false,
     "history": [
       [
@@ -294,6 +318,10 @@
       [
         "2026-11-20T15:17:44.324785+00:00",
         0.06
+      ],
+      [
+        "2026-11-20T15:28:34.269755+00:00",
+        0.07
       ]
     ]
   },
@@ -585,11 +613,11 @@
     ]
   },
   "7085177": {
-    "p": 0.03,
-    "source": "Polymarket BTC strike ladder (implied spot ~61.1k)",
-    "reason": "Barrier model sigma 0.45, spot dropped to ~61.1k; fat-tail floor on deep strikes",
+    "p": 0.06,
+    "source": "Polymarket BTC strike ladder (implied spot ~60.3k)",
+    "reason": "Barrier model sigma 0.45, BTC fell to ~60.3k; fat-tail floor; 60k weekly may have wicked",
     "exit": null,
-    "at": "2026-11-20T15:17:44.375226+00:00",
+    "at": "2026-11-20T15:28:34.328569+00:00",
     "skip": false,
     "history": [
       [
@@ -599,15 +627,19 @@
       [
         "2026-11-20T15:17:44.375237+00:00",
         0.03
+      ],
+      [
+        "2026-11-20T15:28:34.328584+00:00",
+        0.06
       ]
     ]
   },
   "7085173": {
-    "p": 0.63,
-    "source": "Polymarket BTC strike ladder (implied spot ~61.1k)",
-    "reason": "Barrier model sigma 0.45, spot dropped to ~61.1k; fat-tail floor on deep strikes",
+    "p": 0.92,
+    "source": "Polymarket BTC strike ladder (implied spot ~60.3k)",
+    "reason": "Barrier model sigma 0.45, BTC fell to ~60.3k; fat-tail floor; 60k weekly may have wicked",
     "exit": null,
-    "at": "2026-11-20T15:17:44.430430+00:00",
+    "at": "2026-11-20T15:28:34.404155+00:00",
     "skip": false,
     "history": [
       [
@@ -637,6 +669,10 @@
       [
         "2026-11-20T15:17:44.430442+00:00",
         0.63
+      ],
+      [
+        "2026-11-20T15:28:34.404171+00:00",
+        0.92
       ]
     ]
   },
