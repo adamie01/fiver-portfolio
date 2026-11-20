@@ -110,11 +110,11 @@
     ]
   },
   "6507390": {
-    "p": 0.59,
-    "source": "Polymarket BTC ladder (implied spot ~59.9k)",
-    "reason": "Barrier model sigma 0.45 at 59.9k; weekly 60k dip priced 0.9995 = touched",
+    "p": 0.74,
+    "source": "Polymarket BTC ladder (implied spot ~59.3k)",
+    "reason": "Barrier model at 59.3k, vol raised to ~0.6 (crash regime, ladder implies high realized vol)",
     "exit": null,
-    "at": "2026-11-20T15:50:54.701604+00:00",
+    "at": "2026-11-20T16:03:38.926666+00:00",
     "skip": false,
     "history": [
       [
@@ -152,15 +152,19 @@
       [
         "2026-11-20T15:50:54.701617+00:00",
         0.59
+      ],
+      [
+        "2026-11-20T16:03:38.926676+00:00",
+        0.74
       ]
     ]
   },
   "6507392": {
-    "p": 0.27,
-    "source": "Polymarket BTC ladder (implied spot ~59.9k)",
-    "reason": "Barrier model sigma 0.45 at 59.9k; weekly 60k dip priced 0.9995 = touched",
+    "p": 0.43,
+    "source": "Polymarket BTC ladder (implied spot ~59.3k)",
+    "reason": "Barrier model at 59.3k, vol raised to ~0.6 (crash regime, ladder implies high realized vol)",
     "exit": null,
-    "at": "2026-11-20T15:50:54.752894+00:00",
+    "at": "2026-11-20T16:03:38.977569+00:00",
     "skip": false,
     "history": [
       [
@@ -198,6 +202,10 @@
       [
         "2026-11-20T15:50:54.752905+00:00",
         0.27
+      ],
+      [
+        "2026-11-20T16:03:38.977578+00:00",
+        0.43
       ]
     ]
   },
@@ -244,11 +252,11 @@
     ]
   },
   "701501": {
-    "p": 0.57,
-    "source": "Polymarket BTC ladder (implied spot ~59.9k)",
-    "reason": "Barrier model sigma 0.45 at 59.9k; weekly 60k dip priced 0.9995 = touched",
+    "p": 0.69,
+    "source": "Polymarket BTC ladder (implied spot ~59.3k)",
+    "reason": "Barrier model at 59.3k, vol raised to ~0.6 (crash regime, ladder implies high realized vol)",
     "exit": null,
-    "at": "2026-11-20T15:50:54.806810+00:00",
+    "at": "2026-11-20T16:03:39.034825+00:00",
     "skip": false,
     "history": [
       [
@@ -282,15 +290,19 @@
       [
         "2026-11-20T15:50:54.806821+00:00",
         0.57
+      ],
+      [
+        "2026-11-20T16:03:39.034837+00:00",
+        0.69
       ]
     ]
   },
   "1339767": {
-    "p": 0.24,
-    "source": "Polymarket BTC ladder (implied spot ~59.9k)",
-    "reason": "Barrier model sigma 0.45 at 59.9k; weekly 60k dip priced 0.9995 = touched",
+    "p": 0.37,
+    "source": "Polymarket BTC ladder (implied spot ~59.3k)",
+    "reason": "Barrier model at 59.3k, vol raised to ~0.6 (crash regime, ladder implies high realized vol)",
     "exit": null,
-    "at": "2026-11-20T15:50:54.855967+00:00",
+    "at": "2026-11-20T16:03:39.090752+00:00",
     "skip": false,
     "history": [
       [
@@ -324,15 +336,19 @@
       [
         "2026-11-20T15:50:54.855979+00:00",
         0.24
+      ],
+      [
+        "2026-11-20T16:03:39.090763+00:00",
+        0.37
       ]
     ]
   },
   "701502": {
-    "p": 0.07,
-    "source": "Polymarket BTC ladder (implied spot ~59.9k)",
-    "reason": "Barrier model sigma 0.45 at 59.9k; weekly 60k dip priced 0.9995 = touched",
+    "p": 0.16,
+    "source": "Polymarket BTC ladder (implied spot ~59.3k)",
+    "reason": "Barrier model at 59.3k, vol raised to ~0.6 (crash regime, ladder implies high realized vol)",
     "exit": null,
-    "at": "2026-11-20T15:50:54.924842+00:00",
+    "at": "2026-11-20T16:03:39.141116+00:00",
     "skip": false,
     "history": [
       [
@@ -350,6 +366,10 @@
       [
         "2026-11-20T15:50:54.924855+00:00",
         0.07
+      ],
+      [
+        "2026-11-20T16:03:39.141127+00:00",
+        0.16
       ]
     ]
   },
@@ -641,11 +661,11 @@
     ]
   },
   "7085177": {
-    "p": 0.08,
-    "source": "Polymarket BTC ladder (implied spot ~59.9k)",
-    "reason": "Barrier model sigma 0.45 at 59.9k; weekly 60k dip priced 0.9995 = touched",
+    "p": 0.25,
+    "source": "Polymarket BTC ladder (implied spot ~59.3k)",
+    "reason": "Barrier model at 59.3k, vol raised to ~0.6 (crash regime, ladder implies high realized vol)",
     "exit": null,
-    "at": "2026-11-20T15:50:54.977139+00:00",
+    "at": "2026-11-20T16:03:39.187999+00:00",
     "skip": false,
     "history": [
       [
@@ -663,6 +683,10 @@
       [
         "2026-11-20T15:50:54.977151+00:00",
         0.08
+      ],
+      [
+        "2026-11-20T16:03:39.188008+00:00",
+        0.25
       ]
     ]
   },
