@@ -456,5 +456,33 @@
         0.2
       ]
     ]
+  },
+  "5336560": {
+    "p": 0.17,
+    "source": "Résultats officiels / investiture au Congrès des députés",
+    "reason": "Complément de mon estimation PP 0,82 (sondages fin de campagne: PP 1er sauf CIS et 40dB à -2 pts)",
+    "exit": null,
+    "at": "2026-11-20T07:50:23.736896+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-20T07:50:23.736912+00:00",
+        0.17
+      ]
+    ]
+  },
+  "2695686": {
+    "p": 0.85,
+    "source": "Résultats officiels / investiture au Congrès des députés",
+    "reason": "Bloc PP+Vox à 190-209 sièges dans la plupart des sondages (majorité 176); risque: PSOE 1er ou investiture compliquée avec Vox → ~0,85",
+    "exit": null,
+    "at": "2026-11-20T07:50:23.794476+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-20T07:50:23.794491+00:00",
+        0.85
+      ]
+    ]
   }
 }
