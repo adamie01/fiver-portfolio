@@ -484,5 +484,19 @@
         0.85
       ]
     ]
+  },
+  "2431412": {
+    "p": 0.82,
+    "source": "LMArena Text leaderboard, style control off (lmarena.ai)",
+    "reason": "Gemini 4 Carbon 1er (1528) et Google occupe les 2 premières places au 2/11; Meta Muse ~15 pts derrière; ~6 semaines restantes, risque de sortie concurrente (OpenAI/Anthropic/xAI) en décembre → 0,82",
+    "exit": null,
+    "at": "2026-11-20T08:03:01.343308+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-20T08:03:01.343321+00:00",
+        0.82
+      ]
+    ]
   }
 }
