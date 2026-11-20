@@ -344,16 +344,20 @@
     ]
   },
   "7101622": {
-    "p": 0.55,
+    "p": 0.45,
     "source": "ATP Tour (atptour.com)",
-    "reason": "Alcaraz 2-0, qualifié en demi (ATP 18/11); doit encore gagner demi + finale (Zverev qualifié); soins à la cuisse gauche contre Medvedev → léger risque physique",
+    "reason": "Qualifié en demi (2-0), mais strapping au genou droit, entraînement écourté avec Cobolli, soins à la cuisse vs Medvedev; doit gagner demi + finale (Zverev 0,31 au marché) → légère décote vs 0,47",
     "exit": null,
-    "at": "2026-11-19T00:57:12.819941+00:00",
+    "at": "2026-11-20T07:14:39.937933+00:00",
     "skip": false,
     "history": [
       [
         "2026-11-19T00:57:12.819949+00:00",
         0.55
+      ],
+      [
+        "2026-11-20T07:14:39.937946+00:00",
+        0.45
       ]
     ]
   },
