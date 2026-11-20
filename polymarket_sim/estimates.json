@@ -624,5 +624,10 @@
         0.64
       ]
     ]
+  },
+  "6172754": {
+    "skip": true,
+    "reason": "Cours WTI actuel introuvable de façon fiable (résultats datés/contradictoires); pas d'estimation sans donnée vérifiable",
+    "at": "2026-11-20T12:08:17.656308+00:00"
   }
 }
