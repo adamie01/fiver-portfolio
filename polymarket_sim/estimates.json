@@ -526,5 +526,33 @@
         0.78
       ]
     ]
+  },
+  "7101623": {
+    "p": 0.26,
+    "source": "ATP Tour (atptour.com)",
+    "reason": "Zverev 2-0 sans perdre de set, qualifié en demies (groupe McEnroe); probable demie vs 2e du groupe Lendl (~60 %), puis finale probable vs Alcaraz invaincu (~35-40 %) → ~0,26 (marché 0,295)",
+    "exit": null,
+    "at": "2026-11-20T08:30:41.024275+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-20T08:30:41.024290+00:00",
+        0.26
+      ]
+    ]
+  },
+  "7085177": {
+    "p": 0.04,
+    "source": "Binance BTC/USDT bougies 1 min",
+    "reason": "Spot implicite ~61 200 $ (marché 'au-dessus de 60k le 20/11' à 0,92); modèle barrière σ≈0,45 sur 68 h → ~2,5 %; queues épaisses → 4 % (marché 6 %)",
+    "exit": null,
+    "at": "2026-11-20T08:30:41.095686+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-20T08:30:41.095705+00:00",
+        0.04
+      ]
+    ]
   }
 }
