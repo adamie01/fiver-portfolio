@@ -635,11 +635,11 @@
     ]
   },
   "7085173": {
-    "p": 0.92,
-    "source": "Polymarket BTC strike ladder (implied spot ~60.3k)",
-    "reason": "Barrier model sigma 0.45, BTC fell to ~60.3k; fat-tail floor; 60k weekly may have wicked",
+    "p": 0.87,
+    "source": "Polymarket BTC strike ladder (implied spot ~60.4k)",
+    "reason": "Barrier model ~0.86 at 60.4k, 61h left; no touch yet",
     "exit": null,
-    "at": "2026-11-20T15:28:34.404155+00:00",
+    "at": "2026-11-20T15:39:43.482699+00:00",
     "skip": false,
     "history": [
       [
@@ -673,6 +673,10 @@
       [
         "2026-11-20T15:28:34.404171+00:00",
         0.92
+      ],
+      [
+        "2026-11-20T15:39:43.482709+00:00",
+        0.87
       ]
     ]
   },
