@@ -334,16 +334,20 @@
     ]
   },
   "5336561": {
-    "p": 0.87,
+    "p": 0.82,
     "source": "Résultats officiels du Congrès des députés (Ministerio del Interior)",
-    "reason": "Moyenne des sondages PP 32,1% vs PSOE 26,4% (Rio Times), projection oct. PP ~142 sièges vs PSOE ~104 (Olive Press); seul le CIS (biais pro-PSOE connu) donne PSOE devant; erreur type sur l'écart ~4 pts → ~0,87; prime rurale du système D'Hondt favorable au PP",
+    "reason": "Sondages de fin de campagne: PP 1er dans Hamalgama (135 vs PSOE ~101), Ipsos (132 vs 111), Sigma Dos (125-131); mais 40dB/El País ne donne plus que 2 pts d'avance au PP et le CIS place le PSOE devant → resserrement, j'abaisse de 0,87 à 0,82",
     "exit": null,
-    "at": "2026-11-19T00:57:12.865703+00:00",
+    "at": "2026-11-20T06:50:47.767661+00:00",
     "skip": false,
     "history": [
       [
         "2026-11-19T00:57:12.865715+00:00",
         0.87
+      ],
+      [
+        "2026-11-20T06:50:47.767671+00:00",
+        0.82
       ]
     ]
   },
