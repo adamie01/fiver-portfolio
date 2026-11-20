@@ -571,11 +571,11 @@
     ]
   },
   "7085173": {
-    "p": 0.51,
-    "source": "Binance BTC/USDT bougies 1 min",
-    "reason": "Spot implicite ~61 600 $ (au-dessus de 62k le 20/11 à 0,27, échéance 2 h); barrière 60k sur ~62 h, σ≈0,47 → 50-51 %",
+    "p": 0.44,
+    "source": "Polymarket BTC strike ladder (implied spot ~61.8k)",
+    "reason": "Barrier model 2N(ln(60/61.8)/(0.45*sqrt(62h))) ~0.44",
     "exit": null,
-    "at": "2026-11-20T14:52:00.107425+00:00",
+    "at": "2026-11-20T15:04:39.793355+00:00",
     "skip": false,
     "history": [
       [
@@ -597,6 +597,10 @@
       [
         "2026-11-20T14:52:00.107445+00:00",
         0.51
+      ],
+      [
+        "2026-11-20T15:04:39.793368+00:00",
+        0.44
       ]
     ]
   },
