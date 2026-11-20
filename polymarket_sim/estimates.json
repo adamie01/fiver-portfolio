@@ -571,11 +571,11 @@
     ]
   },
   "7085173": {
-    "p": 0.54,
+    "p": 0.39,
     "source": "Binance BTC/USDT bougies 1 min",
-    "reason": "Spot implicite ~61 500 $ (au-dessus de 62k le 20/11 à 0,31); barrière 60k sur ~63 h, σ≈0,47 → 53-54 %",
+    "reason": "Rebond: spot implicite ~62 100 $ (au-dessus de 62k le 20/11 à 0,54, échéance 2 h); barrière 60k sur ~62 h, σ≈0,47 → 38 %",
     "exit": null,
-    "at": "2026-11-20T13:50:39.209276+00:00",
+    "at": "2026-11-20T14:28:51.470867+00:00",
     "skip": false,
     "history": [
       [
@@ -589,6 +589,10 @@
       [
         "2026-11-20T13:50:39.209324+00:00",
         0.54
+      ],
+      [
+        "2026-11-20T14:28:51.470878+00:00",
+        0.39
       ]
     ]
   },
