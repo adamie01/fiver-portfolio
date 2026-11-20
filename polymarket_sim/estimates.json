@@ -568,5 +568,33 @@
         0.42
       ]
     ]
+  },
+  "6831495": {
+    "p": 0.25,
+    "source": "Annonces CENTCOM / Pentagone, consensus presse",
+    "reason": "Dernière frappe US 'défensive' sur Qeshm le 17/11; frappes limitées répétées depuis des semaines autour d'Ormuz; il faudrait 14 jours sans frappe à partir du 22/11 au plus tard; négociations via le Qatar sans percée → 0,25",
+    "exit": null,
+    "at": "2026-11-20T08:54:49.083831+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-20T08:54:49.083849+00:00",
+        0.25
+      ]
+    ]
+  },
+  "5787490": {
+    "p": 0.18,
+    "source": "Annonces officielles de la Maison-Blanche / Trump",
+    "reason": "Zacharia nommée 9/10 puis partie le 16/10; poste vacant depuis 5 semaines, aucun nom avancé publiquement; 10 jours restants dont Thanksgiving → 0,18",
+    "exit": null,
+    "at": "2026-11-20T08:54:49.156149+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-20T08:54:49.156164+00:00",
+        0.18
+      ]
+    ]
   }
 }
