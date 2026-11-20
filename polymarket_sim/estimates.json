@@ -46,11 +46,11 @@
     ]
   },
   "6507388": {
-    "p": 0.73,
-    "source": "Binance BTC/USDT bougies 1 min",
-    "reason": "Spot implicite ~61 700 $ (marché 'au-dessus de 62k le 20/11' à 0,40); modèle barrière σ≈0,47, queues épaisses; 257 h → 73 %",
+    "p": 0.81,
+    "source": "Polymarket BTC strike ladder (implied spot ~61.1k)",
+    "reason": "Barrier model sigma 0.45, spot dropped to ~61.1k; fat-tail floor on deep strikes",
     "exit": null,
-    "at": "2026-11-20T12:08:45.177094+00:00",
+    "at": "2026-11-20T15:17:43.988507+00:00",
     "skip": false,
     "history": [
       [
@@ -76,6 +76,10 @@
       [
         "2026-11-20T12:08:45.177103+00:00",
         0.73
+      ],
+      [
+        "2026-11-20T15:17:43.988525+00:00",
+        0.81
       ]
     ]
   },
@@ -98,11 +102,11 @@
     ]
   },
   "6507390": {
-    "p": 0.38,
-    "source": "Binance BTC/USDT bougies 1 min",
-    "reason": "Spot implicite ~61 700 $ (marché 'au-dessus de 62k le 20/11' à 0,40); modèle barrière σ≈0,47, queues épaisses; 257 h → 38 %",
+    "p": 0.43,
+    "source": "Polymarket BTC strike ladder (implied spot ~61.1k)",
+    "reason": "Barrier model sigma 0.45, spot dropped to ~61.1k; fat-tail floor on deep strikes",
     "exit": null,
-    "at": "2026-11-20T12:08:45.228382+00:00",
+    "at": "2026-11-20T15:17:44.045230+00:00",
     "skip": false,
     "history": [
       [
@@ -128,15 +132,19 @@
       [
         "2026-11-20T12:08:45.228392+00:00",
         0.38
+      ],
+      [
+        "2026-11-20T15:17:44.045240+00:00",
+        0.43
       ]
     ]
   },
   "6507392": {
-    "p": 0.17,
-    "source": "Binance BTC/USDT bougies 1 min",
-    "reason": "Spot implicite ~61 700 $ (marché 'au-dessus de 62k le 20/11' à 0,40); modèle barrière σ≈0,47, queues épaisses; 257 h → 15 % modèle, 17 % avec queues",
+    "p": 0.19,
+    "source": "Polymarket BTC strike ladder (implied spot ~61.1k)",
+    "reason": "Barrier model sigma 0.45, spot dropped to ~61.1k; fat-tail floor on deep strikes",
     "exit": null,
-    "at": "2026-11-20T12:08:45.277922+00:00",
+    "at": "2026-11-20T15:17:44.097338+00:00",
     "skip": false,
     "history": [
       [
@@ -162,15 +170,19 @@
       [
         "2026-11-20T12:08:45.277933+00:00",
         0.17
+      ],
+      [
+        "2026-11-20T15:17:44.097350+00:00",
+        0.19
       ]
     ]
   },
   "3013350": {
-    "p": 0.85,
-    "source": "Binance BTC/USDT bougies 1 min",
-    "reason": "Spot implicite ~61 700 $ (marché 'au-dessus de 62k le 20/11' à 0,40); modèle barrière σ≈0,47, queues épaisses; 1001 h → 86 %",
+    "p": 0.9,
+    "source": "Polymarket BTC strike ladder (implied spot ~61.1k)",
+    "reason": "Barrier model sigma 0.45, spot dropped to ~61.1k; fat-tail floor on deep strikes",
     "exit": null,
-    "at": "2026-11-20T12:08:45.414654+00:00",
+    "at": "2026-11-20T15:17:44.163614+00:00",
     "skip": false,
     "history": [
       [
@@ -192,15 +204,19 @@
       [
         "2026-11-20T12:08:45.414662+00:00",
         0.85
+      ],
+      [
+        "2026-11-20T15:17:44.163627+00:00",
+        0.9
       ]
     ]
   },
   "701501": {
-    "p": 0.46,
-    "source": "Binance BTC/USDT bougies 1 min",
-    "reason": "Spot implicite ~61 700 $ (marché 'au-dessus de 62k le 20/11' à 0,40); modèle barrière σ≈0,47, queues épaisses; 1001 h → 47 %",
+    "p": 0.49,
+    "source": "Polymarket BTC strike ladder (implied spot ~61.1k)",
+    "reason": "Barrier model sigma 0.45, spot dropped to ~61.1k; fat-tail floor on deep strikes",
     "exit": null,
-    "at": "2026-11-20T12:08:45.369244+00:00",
+    "at": "2026-11-20T15:17:44.216093+00:00",
     "skip": false,
     "history": [
       [
@@ -222,15 +238,19 @@
       [
         "2026-11-20T12:08:45.369253+00:00",
         0.46
+      ],
+      [
+        "2026-11-20T15:17:44.216104+00:00",
+        0.49
       ]
     ]
   },
   "1339767": {
     "p": 0.21,
-    "source": "Binance BTC/USDT bougies 1 min",
-    "reason": "Spot implicite ~61 700 $ (marché 'au-dessus de 62k le 20/11' à 0,40); modèle barrière σ≈0,47, queues épaisses; 1001 h → 19 % modèle, 21 % avec queues",
+    "source": "Polymarket BTC strike ladder (implied spot ~61.1k)",
+    "reason": "Barrier model sigma 0.45, spot dropped to ~61.1k; fat-tail floor on deep strikes",
     "exit": null,
-    "at": "2026-11-20T12:08:45.323398+00:00",
+    "at": "2026-11-20T15:17:44.264340+00:00",
     "skip": false,
     "history": [
       [
@@ -252,20 +272,28 @@
       [
         "2026-11-20T12:08:45.323407+00:00",
         0.21
+      ],
+      [
+        "2026-11-20T15:17:44.264350+00:00",
+        0.21
       ]
     ]
   },
   "701502": {
-    "p": 0.05,
-    "source": "Binance BTC/USDT bougies 1 min",
-    "reason": "Barrière, spot ~64,3k$, vol 45-50% (marché implique ~40%), 44 j; queues grasses non modélisées → prudence",
+    "p": 0.06,
+    "source": "Polymarket BTC strike ladder (implied spot ~61.1k)",
+    "reason": "Barrier model sigma 0.45, spot dropped to ~61.1k; fat-tail floor on deep strikes",
     "exit": null,
-    "at": "2026-11-17T23:00:43.576601+00:00",
+    "at": "2026-11-20T15:17:44.324773+00:00",
     "skip": false,
     "history": [
       [
         "2026-11-17T23:00:43.576618+00:00",
         0.05
+      ],
+      [
+        "2026-11-20T15:17:44.324785+00:00",
+        0.06
       ]
     ]
   },
@@ -557,25 +585,29 @@
     ]
   },
   "7085177": {
-    "p": 0.04,
-    "source": "Binance BTC/USDT bougies 1 min",
-    "reason": "Spot implicite ~61 200 $ (marché 'au-dessus de 60k le 20/11' à 0,92); modèle barrière σ≈0,45 sur 68 h → ~2,5 %; queues épaisses → 4 % (marché 6 %)",
+    "p": 0.03,
+    "source": "Polymarket BTC strike ladder (implied spot ~61.1k)",
+    "reason": "Barrier model sigma 0.45, spot dropped to ~61.1k; fat-tail floor on deep strikes",
     "exit": null,
-    "at": "2026-11-20T08:30:41.095686+00:00",
+    "at": "2026-11-20T15:17:44.375226+00:00",
     "skip": false,
     "history": [
       [
         "2026-11-20T08:30:41.095705+00:00",
         0.04
+      ],
+      [
+        "2026-11-20T15:17:44.375237+00:00",
+        0.03
       ]
     ]
   },
   "7085173": {
-    "p": 0.44,
-    "source": "Polymarket BTC strike ladder (implied spot ~61.8k)",
-    "reason": "Barrier model 2N(ln(60/61.8)/(0.45*sqrt(62h))) ~0.44",
+    "p": 0.63,
+    "source": "Polymarket BTC strike ladder (implied spot ~61.1k)",
+    "reason": "Barrier model sigma 0.45, spot dropped to ~61.1k; fat-tail floor on deep strikes",
     "exit": null,
-    "at": "2026-11-20T15:04:39.793355+00:00",
+    "at": "2026-11-20T15:17:44.430430+00:00",
     "skip": false,
     "history": [
       [
@@ -601,6 +633,10 @@
       [
         "2026-11-20T15:04:39.793368+00:00",
         0.44
+      ],
+      [
+        "2026-11-20T15:17:44.430442+00:00",
+        0.63
       ]
     ]
   },
