@@ -110,11 +110,11 @@
     ]
   },
   "6507390": {
-    "p": 0.89,
-    "source": "Polymarket BTC ladder (implied spot ~58.2k)",
-    "reason": "Barrier model sigma 0.6 at 58.2k after further drop",
+    "p": 0.77,
+    "source": "Polymarket BTC daily ladder (spot implicite)",
+    "reason": "Modèle barrière σ0.6, spot ~59.2k (rebond: >58k J+1 à 0.78, >60k à 0.32)",
     "exit": null,
-    "at": "2026-11-20T18:50:04.318205+00:00",
+    "at": "2026-11-20T21:48:33.059537+00:00",
     "skip": false,
     "history": [
       [
@@ -160,15 +160,19 @@
       [
         "2026-11-20T18:50:04.318219+00:00",
         0.89
+      ],
+      [
+        "2026-11-20T21:48:33.059589+00:00",
+        0.77
       ]
     ]
   },
   "6507392": {
-    "p": 0.56,
-    "source": "Polymarket BTC ladder (implied spot ~58.2k)",
-    "reason": "Barrier model sigma 0.6 at 58.2k after further drop",
+    "p": 0.47,
+    "source": "Polymarket BTC daily ladder (spot implicite)",
+    "reason": "Modèle barrière σ0.6, spot ~59.2k (rebond: >58k J+1 à 0.78, >60k à 0.32)",
     "exit": null,
-    "at": "2026-11-20T18:50:04.385253+00:00",
+    "at": "2026-11-20T21:48:33.114536+00:00",
     "skip": false,
     "history": [
       [
@@ -214,6 +218,10 @@
       [
         "2026-11-20T18:50:04.385265+00:00",
         0.56
+      ],
+      [
+        "2026-11-20T21:48:33.114546+00:00",
+        0.47
       ]
     ]
   },
@@ -260,11 +268,11 @@
     ]
   },
   "701501": {
-    "p": 0.76,
-    "source": "Polymarket BTC ladder (implied spot ~58.2k)",
-    "reason": "Barrier model sigma 0.6 at 58.2k after further drop",
+    "p": 0.72,
+    "source": "Polymarket BTC daily ladder (spot implicite)",
+    "reason": "Modèle barrière σ0.6, spot ~59.2k (rebond: >58k J+1 à 0.78, >60k à 0.32)",
     "exit": null,
-    "at": "2026-11-20T18:50:04.447454+00:00",
+    "at": "2026-11-20T21:48:33.166975+00:00",
     "skip": false,
     "history": [
       [
@@ -306,15 +314,19 @@
       [
         "2026-11-20T18:50:04.447462+00:00",
         0.76
+      ],
+      [
+        "2026-11-20T21:48:33.166990+00:00",
+        0.72
       ]
     ]
   },
   "1339767": {
-    "p": 0.43,
-    "source": "Polymarket BTC ladder (implied spot ~58.2k)",
-    "reason": "Barrier model sigma 0.6 at 58.2k after further drop",
+    "p": 0.4,
+    "source": "Polymarket BTC daily ladder (spot implicite)",
+    "reason": "Modèle barrière σ0.6, spot ~59.2k (rebond: >58k J+1 à 0.78, >60k à 0.32)",
     "exit": null,
-    "at": "2026-11-20T18:50:04.499521+00:00",
+    "at": "2026-11-20T21:48:33.245783+00:00",
     "skip": false,
     "history": [
       [
@@ -356,15 +368,19 @@
       [
         "2026-11-20T18:50:04.499529+00:00",
         0.43
+      ],
+      [
+        "2026-11-20T21:48:33.245794+00:00",
+        0.4
       ]
     ]
   },
   "701502": {
-    "p": 0.19,
-    "source": "Polymarket BTC ladder (implied spot ~58.2k)",
-    "reason": "Barrier model sigma 0.6 at 58.2k after further drop",
+    "p": 0.175,
+    "source": "Polymarket BTC daily ladder (spot implicite)",
+    "reason": "Modèle barrière σ0.6, spot ~59.2k (rebond: >58k J+1 à 0.78, >60k à 0.32)",
     "exit": null,
-    "at": "2026-11-20T18:50:04.562079+00:00",
+    "at": "2026-11-20T21:48:33.294179+00:00",
     "skip": false,
     "history": [
       [
@@ -390,6 +406,10 @@
       [
         "2026-11-20T18:50:04.562093+00:00",
         0.19
+      ],
+      [
+        "2026-11-20T21:48:33.294189+00:00",
+        0.175
       ]
     ]
   },
@@ -681,11 +701,11 @@
     ]
   },
   "7085177": {
-    "p": 0.43,
-    "source": "Polymarket BTC ladder (implied spot ~58.2k)",
-    "reason": "Barrier model sigma 0.6 at 58.2k after further drop",
+    "p": 0.25,
+    "source": "Polymarket BTC daily ladder (spot implicite)",
+    "reason": "Modèle barrière σ0.6, spot ~59.2k (rebond: >58k J+1 à 0.78, >60k à 0.32)",
     "exit": null,
-    "at": "2026-11-20T18:50:04.630641+00:00",
+    "at": "2026-11-20T21:48:33.369775+00:00",
     "skip": false,
     "history": [
       [
@@ -711,6 +731,10 @@
       [
         "2026-11-20T18:50:04.630657+00:00",
         0.43
+      ],
+      [
+        "2026-11-20T21:48:33.369793+00:00",
+        0.25
       ]
     ]
   },
