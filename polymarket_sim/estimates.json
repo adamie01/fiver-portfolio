@@ -46,11 +46,11 @@
     ]
   },
   "6507388": {
-    "p": 0.67,
+    "p": 0.73,
     "source": "Binance BTC/USDT bougies 1 min",
-    "reason": "Recalcul 20/11 07:03 UTC: spot implicite ~62,0k$ ('au-dessus de 62k le 20/11' à 0,51), vol 42-47%, 10,9 j",
+    "reason": "Spot implicite ~61 700 $ (marché 'au-dessus de 62k le 20/11' à 0,40); modèle barrière σ≈0,47, queues épaisses; 257 h → 73 %",
     "exit": null,
-    "at": "2026-11-20T07:02:30.381374+00:00",
+    "at": "2026-11-20T12:08:45.177094+00:00",
     "skip": false,
     "history": [
       [
@@ -72,6 +72,10 @@
       [
         "2026-11-20T07:02:30.381392+00:00",
         0.67
+      ],
+      [
+        "2026-11-20T12:08:45.177103+00:00",
+        0.73
       ]
     ]
   },
@@ -94,11 +98,11 @@
     ]
   },
   "6507390": {
-    "p": 0.33,
+    "p": 0.38,
     "source": "Binance BTC/USDT bougies 1 min",
-    "reason": "Recalcul 20/11 07:03 UTC: spot implicite ~62,0k$ ('au-dessus de 62k le 20/11' à 0,51), vol 42-47%, 10,9 j",
+    "reason": "Spot implicite ~61 700 $ (marché 'au-dessus de 62k le 20/11' à 0,40); modèle barrière σ≈0,47, queues épaisses; 257 h → 38 %",
     "exit": null,
-    "at": "2026-11-20T07:02:30.468189+00:00",
+    "at": "2026-11-20T12:08:45.228382+00:00",
     "skip": false,
     "history": [
       [
@@ -120,15 +124,19 @@
       [
         "2026-11-20T07:02:30.468206+00:00",
         0.33
+      ],
+      [
+        "2026-11-20T12:08:45.228392+00:00",
+        0.38
       ]
     ]
   },
   "6507392": {
-    "p": 0.12,
+    "p": 0.17,
     "source": "Binance BTC/USDT bougies 1 min",
-    "reason": "Recalcul 20/11 07:03 UTC: spot implicite ~62,0k$ ('au-dessus de 62k le 20/11' à 0,51), vol 42-47%, 10,9 j",
+    "reason": "Spot implicite ~61 700 $ (marché 'au-dessus de 62k le 20/11' à 0,40); modèle barrière σ≈0,47, queues épaisses; 257 h → 15 % modèle, 17 % avec queues",
     "exit": null,
-    "at": "2026-11-20T07:02:30.524346+00:00",
+    "at": "2026-11-20T12:08:45.277922+00:00",
     "skip": false,
     "history": [
       [
@@ -150,15 +158,19 @@
       [
         "2026-11-20T07:02:30.524364+00:00",
         0.12
+      ],
+      [
+        "2026-11-20T12:08:45.277933+00:00",
+        0.17
       ]
     ]
   },
   "3013350": {
-    "p": 0.83,
+    "p": 0.85,
     "source": "Binance BTC/USDT bougies 1 min",
-    "reason": "Recalcul 20/11 07:03 UTC: spot implicite ~62,0k$ ('au-dessus de 62k le 20/11' à 0,51), vol 42-47%, 41,7 j",
+    "reason": "Spot implicite ~61 700 $ (marché 'au-dessus de 62k le 20/11' à 0,40); modèle barrière σ≈0,47, queues épaisses; 1001 h → 86 %",
     "exit": null,
-    "at": "2026-11-20T07:02:30.595241+00:00",
+    "at": "2026-11-20T12:08:45.414654+00:00",
     "skip": false,
     "history": [
       [
@@ -176,15 +188,19 @@
       [
         "2026-11-20T07:02:30.595263+00:00",
         0.83
+      ],
+      [
+        "2026-11-20T12:08:45.414662+00:00",
+        0.85
       ]
     ]
   },
   "701501": {
-    "p": 0.43,
+    "p": 0.46,
     "source": "Binance BTC/USDT bougies 1 min",
-    "reason": "Recalcul 20/11 07:03 UTC: spot implicite ~62,0k$ ('au-dessus de 62k le 20/11' à 0,51), vol 42-47%, 41,7 j",
+    "reason": "Spot implicite ~61 700 $ (marché 'au-dessus de 62k le 20/11' à 0,40); modèle barrière σ≈0,47, queues épaisses; 1001 h → 47 %",
     "exit": null,
-    "at": "2026-11-20T07:02:30.660503+00:00",
+    "at": "2026-11-20T12:08:45.369244+00:00",
     "skip": false,
     "history": [
       [
@@ -202,15 +218,19 @@
       [
         "2026-11-20T07:02:30.660518+00:00",
         0.43
+      ],
+      [
+        "2026-11-20T12:08:45.369253+00:00",
+        0.46
       ]
     ]
   },
   "1339767": {
-    "p": 0.16,
+    "p": 0.21,
     "source": "Binance BTC/USDT bougies 1 min",
-    "reason": "Recalcul 20/11 07:03 UTC: spot implicite ~62,0k$ ('au-dessus de 62k le 20/11' à 0,51), vol 42-47%, 41,7 j; queues grasses",
+    "reason": "Spot implicite ~61 700 $ (marché 'au-dessus de 62k le 20/11' à 0,40); modèle barrière σ≈0,47, queues épaisses; 1001 h → 19 % modèle, 21 % avec queues",
     "exit": null,
-    "at": "2026-11-20T07:02:30.733388+00:00",
+    "at": "2026-11-20T12:08:45.323398+00:00",
     "skip": false,
     "history": [
       [
@@ -228,6 +248,10 @@
       [
         "2026-11-20T07:02:30.733411+00:00",
         0.16
+      ],
+      [
+        "2026-11-20T12:08:45.323407+00:00",
+        0.21
       ]
     ]
   },
