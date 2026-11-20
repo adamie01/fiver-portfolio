@@ -380,16 +380,20 @@
     ]
   },
   "3580995": {
-    "p": 0.66,
+    "p": 0.6,
     "source": "Commission électorale centrale (db.cec.gov.tw)",
-    "reason": "Sondages nov.: Su +14,9 (Mirror 5/11), +8,4 (Fengcan 13/11), instituts plutôt pro-DPP; aucun sondage pro-KMT récent trouvé; New Taipei bastion KMT (Hou +25 en 2022), KMT a surperformé les sondages en 2022 → décote forte",
+    "reason": "Sondages très partagés selon l'institut: pro-DPP Su +8 à +15 (oct.-nov.), mais sondages pro-KMT (TVBS pour le caucus KMT, août: Lee +6,7; Formosa avr.: Lee +1); aucun sondage neutre récent; bastion KMT → ~0,60",
     "exit": null,
-    "at": "2026-11-19T01:09:32.931165+00:00",
+    "at": "2026-11-20T07:38:29.555807+00:00",
     "skip": false,
     "history": [
       [
         "2026-11-19T01:09:32.931175+00:00",
         0.66
+      ],
+      [
+        "2026-11-20T07:38:29.555826+00:00",
+        0.6
       ]
     ]
   },
