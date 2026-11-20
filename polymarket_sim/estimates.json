@@ -596,5 +596,33 @@
         0.18
       ]
     ]
+  },
+  "6831496": {
+    "p": 0.43,
+    "source": "Annonces CENTCOM / Pentagone, consensus presse",
+    "reason": "Même règle que le marché du 22/11 (0,25 chez moi) avec 8 jours de plus pour démarrer la période de 14 jours sans frappe; frappes 'défensives' limitées encore le 17/11, médiation qatarie en cours → 0,43",
+    "exit": null,
+    "at": "2026-11-20T09:06:28.869344+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-20T09:06:28.869355+00:00",
+        0.43
+      ]
+    ]
+  },
+  "7001818": {
+    "p": 0.64,
+    "source": "ATP Tour (atptour.com/en/scores/current)",
+    "reason": "Match décisif pour la 2e place du groupe Lendl (Medvedev 1-1, Tiafoe 1-1); Medvedev favori sur dur indoor, Tiafoe vient de battre Cobolli 7-6 6-0 → 0,64 (marché 0,665)",
+    "exit": null,
+    "at": "2026-11-20T09:06:28.930178+00:00",
+    "skip": false,
+    "history": [
+      [
+        "2026-11-20T09:06:28.930189+00:00",
+        0.64
+      ]
+    ]
   }
 }
