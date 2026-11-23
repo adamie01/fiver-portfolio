@@ -10,7 +10,7 @@ Aucun pari réel, aucune connexion à un compte, aucun identifiant demandé.
 4. Pour 2 à 4 marchés en tête de file non évalués : `show ID` (règles complètes), identifier la source officielle
    (sinon `skip`), rechercher l'actualité (X via recherche web `site:x.com`, presse, données publiques vérifiables),
    pondérer par crédibilité/fraîcheur, ignorer promo et bots, puis `estimate ID --p … --source … --reason …`.
-5. `python3 polymarket_sim/sim.py evaluate --execute` — écart > 8 pts vs ask, test de revente ≤ 3 % sur le carnet,
+5. (Recalculer d’abord le spot BTC si les échelles quotidiennes ont bougé d’~1k ou plus — sinon estimations périmées.) `python3 polymarket_sim/sim.py evaluate --execute` — écart > 8 pts vs ask, test de revente ≤ 3 % sur le carnet,
    demi-Kelly plafonné à 6 % de l'équité, 5 paris ouverts max ; l'entrée est écrite dans `paris.txt` avant d'être prise.
 
 Frais taker modélisés : parts × taux × p × (1 − p), taux lu dans `feeSchedule` du marché, à l'achat et à la revente.
