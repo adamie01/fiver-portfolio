@@ -168,11 +168,11 @@
     ]
   },
   "6507392": {
-    "p": 0.217,
+    "p": 0.234,
     "source": "Polymarket BTC daily ladder (spot implicite)",
-    "reason": "Barrière BTC (modèle réflexion), spot ~60477 (ladder du jour), σ 0.564, rafraîchi 12:12 UTC",
+    "reason": "Barrière BTC (modèle réflexion), spot ~60261 (ladder du jour), σ 0.564, rafraîchi 12:24 UTC",
     "exit": null,
-    "at": "2026-11-24T12:12:03.094077+00:00",
+    "at": "2026-11-24T12:24:15.166899+00:00",
     "skip": false,
     "history": [
       [
@@ -454,6 +454,10 @@
       [
         "2026-11-24T12:12:03.094087+00:00",
         0.217
+      ],
+      [
+        "2026-11-24T12:24:15.166908+00:00",
+        0.234
       ]
     ]
   },
@@ -500,11 +504,11 @@
     ]
   },
   "701501": {
-    "p": 0.601,
+    "p": 0.615,
     "source": "Polymarket BTC daily ladder (spot implicite)",
-    "reason": "Barrière BTC (modèle réflexion), spot ~60477 (ladder du jour), σ 0.564, rafraîchi 12:12 UTC",
+    "reason": "Barrière BTC (modèle réflexion), spot ~60261 (ladder du jour), σ 0.564, rafraîchi 12:24 UTC",
     "exit": null,
-    "at": "2026-11-24T12:12:03.143882+00:00",
+    "at": "2026-11-24T12:24:15.219505+00:00",
     "skip": false,
     "history": [
       [
@@ -782,15 +786,19 @@
       [
         "2026-11-24T12:12:03.143893+00:00",
         0.601
+      ],
+      [
+        "2026-11-24T12:24:15.219516+00:00",
+        0.615
       ]
     ]
   },
   "1339767": {
-    "p": 0.294,
+    "p": 0.304,
     "source": "Polymarket BTC daily ladder (spot implicite)",
-    "reason": "Barrière BTC (modèle réflexion), spot ~60477 (ladder du jour), σ 0.564, rafraîchi 12:12 UTC",
+    "reason": "Barrière BTC (modèle réflexion), spot ~60261 (ladder du jour), σ 0.564, rafraîchi 12:24 UTC",
     "exit": null,
-    "at": "2026-11-24T12:12:03.192801+00:00",
+    "at": "2026-11-24T12:24:15.271327+00:00",
     "skip": false,
     "history": [
       [
@@ -1068,15 +1076,19 @@
       [
         "2026-11-24T12:12:03.192811+00:00",
         0.294
+      ],
+      [
+        "2026-11-24T12:24:15.271338+00:00",
+        0.304
       ]
     ]
   },
   "701502": {
-    "p": 0.103,
+    "p": 0.108,
     "source": "Polymarket BTC daily ladder (spot implicite)",
-    "reason": "Barrière BTC (modèle réflexion), spot ~60477 (ladder du jour), σ 0.564, rafraîchi 12:12 UTC",
+    "reason": "Barrière BTC (modèle réflexion), spot ~60261 (ladder du jour), σ 0.564, rafraîchi 12:24 UTC",
     "exit": null,
-    "at": "2026-11-24T12:12:03.241403+00:00",
+    "at": "2026-11-24T12:24:15.318259+00:00",
     "skip": false,
     "history": [
       [
@@ -1338,6 +1350,10 @@
       [
         "2026-11-24T12:12:03.241413+00:00",
         0.103
+      ],
+      [
+        "2026-11-24T12:24:15.318267+00:00",
+        0.108
       ]
     ]
   },
