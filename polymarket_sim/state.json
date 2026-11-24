@@ -1,7 +1,7 @@
 {
   "cash": 46.917469,
   "peak": 50.2924,
-  "equity": 50.1169,
+  "equity": 50.1084,
   "open": [
     {
       "market_id": "701501",
@@ -17,7 +17,7 @@
       "end": "2027-01-01T05:00:00Z",
       "opened": "2026-11-24 02:54 UTC",
       "exit_rule": "sortie si l'écart se referme (≤ 2 pts), si ma proba bouge de > 5 pts, ou si le marché finit dans l'heure (fin 2027-01-01T05:00:00Z)",
-      "mark": 3.1994,
+      "mark": 3.191,
       "best_bid": 0.55
     }
   ],
