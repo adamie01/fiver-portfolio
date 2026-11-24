@@ -24,3 +24,14 @@ Cagnotte fictive : 50.00 $. Aucun pari réel.
   Note       : entrée prise sur une estimation périmée (calculée à ~60,5k alors que le BTC était remonté à ~61,5k).
                Correction : recalcul du spot BTC désormais fait AVANT evaluate à chaque cycle.
 
+[2026-11-24 02:54 UTC] ENTRÉE (fictive)
+  Marché     : Will Bitcoin dip to $55,000 by December 31, 2026? (id 701501, polymarket.com/market/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516)
+  Côté       : YES
+  Ma proba   : 62.0% (YES)  | proba OUI = 62.0%
+  Prix       : ask 0.510, prix moyen payé 0.5125 frais inclus (5.84 parts)
+  Mise       : 2.99 $ fictifs (Kelly 0.221 → ½ → plafond 6 %)
+  Revente    : test immédiat -2.93% (limite -3 %)
+  Source     : Polymarket BTC daily ladder (spot implicite)
+  Sortie     : sortie si l'écart se referme (≤ 2 pts), si ma proba bouge de > 5 pts, ou si le marché finit dans l'heure (fin 2027-01-01T05:00:00Z)
+  Raison     : Barrière BTC (modèle réflexion), spot ~60.2k (ladder 24 nov 58k/60k/62k), σ 0.564, rafraîchi 02:54 UTC
+

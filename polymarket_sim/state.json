@@ -1,8 +1,24 @@
 {
-  "cash": 49.912201,
+  "cash": 46.917469,
   "peak": 50.0,
   "equity": 49.9122,
-  "open": [],
+  "open": [
+    {
+      "market_id": "701501",
+      "question": "Will Bitcoin dip to $55,000 by December 31, 2026?",
+      "side": "YES",
+      "token": "115462087336983275104521488923966022755348986822352694745153736621832003960847",
+      "shares": 5.84339091393349,
+      "cost": 2.994732,
+      "avg": 0.512499,
+      "entry_p_yes": 0.62,
+      "q_side": 0.62,
+      "fee_rate": 0.01,
+      "end": "2027-01-01T05:00:00Z",
+      "opened": "2026-11-24 02:54 UTC",
+      "exit_rule": "sortie si l'écart se referme (≤ 2 pts), si ma proba bouge de > 5 pts, ou si le marché finit dans l'heure (fin 2027-01-01T05:00:00Z)"
+    }
+  ],
   "closed": [
     {
       "market_id": "701501",
